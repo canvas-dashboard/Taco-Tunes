@@ -1,2 +1,2 @@
 # Taco-Tunes
-Taco Tunes - A fun game where you must master your music, uh, skills to serve tacos to your customers. But you better hurry, they will start to get impatient. Do you have what it takes to, erm, uh, make... tacos?
+Oh no! Your medical bills are too high, you have no choice but to start your own business, Tacos with Santiago. Starting from nothing, can you master your music skills to become the best taco-selling restaurant in town? Find out!
